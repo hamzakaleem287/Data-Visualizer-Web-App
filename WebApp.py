@@ -30,7 +30,7 @@ try:
     files = [f for f in os.listdir(folder_path) if f.endswith(".csv")]
 
     # Dropdown for all the Files
-    selected_files = st.selectbox("Select a File",[None]+files, index=None)
+    selected_files = st.selectbox("Select a File",[None]+files)
 
     if selected_files:
         # Get the Complete Path of the Selected Files
