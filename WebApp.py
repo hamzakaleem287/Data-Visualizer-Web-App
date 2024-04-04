@@ -19,7 +19,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown("<h1 style=color:#ff4c5b;><img width='64px',height='64', src='https://cdn-icons-png.freepik.com/512/12191/12191411.png?uid=R140683934&ga=GA1.1.2115474961.1709795892&'> <span style=color:#f77600;> Data Visual</span><span style=color:#1fb4ff;>izer Web App</span></h1>", unsafe_allow_html=True)
+st.markdown("<h1 style=color:#ff4c5b;><img width='64px',height='64', src='https://cdn-icons-png.freepik.com/512/12191/12191411.png?uid=R140683934&ga=GA1.1.2115474961.1709795892&'> <span style=color:#f77600;> Data </span><span style=color:#1fb4ff;>Visualizer</span></h1>", unsafe_allow_html=True)
 st.markdown("<h5 style=color:#384949; ><span style=color:#1fb4ff;>Explore, Analyze, and Visualize</span> <span style=color:#f77600;>data like never before...</span></h5>",unsafe_allow_html=True) 
 try:
     # Getting the Working Directory
